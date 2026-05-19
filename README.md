@@ -59,19 +59,18 @@ Engineering solutions first — technology second.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BlackBearD0&show_icons=true&theme=transparent&hide_border=true&title_color=f59e0b&text_color=ffffff&icon_color=f59e0b" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBearD0&layout=compact&theme=transparent&hide_border=true&title_color=f59e0b&text_color=ffffff" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BlackBearD0&show_icons=true&theme=github_dark&hide_border=true&border_radius=12" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBearD0&layout=compact&theme=github_dark&hide_border=true&border_radius=12" />
 </p>
 
 ---
 
-## 🔥 Contribution Activity
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BlackBearD0&theme=transparent&hide_border=true&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlackBearD0&theme=github-dark-blue&hide_border=true&border_radius=12" />
 </p>
-
 ---
 
 ## 🌍 Connect With Me
