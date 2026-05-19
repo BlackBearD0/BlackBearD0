@@ -1,77 +1,87 @@
- Hi, I'm Achraf Boutakourte 👋
+<h1 align="center">Hi 👋, I'm Achraf Boutakourte</h1>
 
-**Fullstack Software Engineer | AI Integrations & Enterprise Systems**
+<h3 align="center">
+Fullstack Software Engineer • AI Integrations • Enterprise Systems
+</h3>
 
-I'm a software engineer with around 3 years of experience building and maintaining enterprise applications, integrations, analytics dashboards, and AI-assisted solutions.
-
-I enjoy working across different technologies and environments — from legacy systems to modern fullstack applications, AI workflows, dashboards, and enterprise platforms.
-
-> Engineering solutions first — technology second.
+<p align="center">
+Engineering solutions first — technology second.
+</p>
 
 ---
 
-## 🚀 What I Work On
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&lines=Fullstack+Software+Engineer;Enterprise+Systems+%26+Integrations;AI-Assisted+Solutions;RAG+%26+MCP+Architecture;Scalable+Backend+Systems" />
+</p>
 
-- Enterprise web applications
-- Fullstack development
-- AI-assisted solutions
-- RAG & chatbot integrations
-- MCP server architecture
-- Analytics dashboards & KPI reporting
-- Microsoft ecosystem integrations
-- Legacy system maintenance & modernization
+---
+
+## 🚀 About Me
+
+- 💼 Fullstack Software Engineer with ~3 years of experience
+- 🧠 Interested in AI-assisted systems & scalable architectures
+- ⚙️ Working across enterprise applications, integrations & analytics
+- 🔄 Comfortable with both legacy modernization and modern stacks
+- 🌍 Open to international opportunities
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages & Frameworks
-`PHP` `JavaScript` `TypeScript` `Laravel` `Vue.js` `jQuery`
-
-### Databases & Analytics
-`MySQL` `PostgreSQL` `MongoDB` `Redis` `SQL` `Metabase` `Matomo`
+![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel)
+![Vue.js](https://img.shields.io/badge/Vue.js-111827?style=for-the-badge&logo=vuedotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
 
 ### AI & Integrations
-`RAG` `MCP Servers` `AI Integrations` `REST APIs` `Chatbots`
+![OpenAI](https://img.shields.io/badge/AI_Integrations-111827?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG_Systems-111827?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP_Server-111827?style=for-the-badge)
 
-### Microsoft Ecosystem
-`Microsoft Teams Apps` `Dataverse` `Power Platform`
+### Databases & Analytics
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis)
+![Metabase](https://img.shields.io/badge/Metabase-111827?style=for-the-badge)
 
 ### DevOps & Tools
-`Docker` `Git` `Jenkins` `Linux` `Nginx` `MinIO`
-
-### CMS & Legacy Systems
-`WordPress` `Jelix` `Zend Framework 2`
-
----
-
-## 💡 Engineering Mindset
-
-I like solving real business problems through reliable and maintainable software.
-
-My strongest asset is adaptability — I’m not attached to one framework or stack. I focus on understanding the problem, choosing the right approach, and delivering practical solutions.
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux)
+![Jenkins](https://img.shields.io/badge/Jenkins-111827?style=for-the-badge&logo=jenkins)
 
 ---
 
-## 📌 Current Focus
+## 📊 GitHub Stats
 
-- Building scalable fullstack systems
-- Improving AI-assisted development workflows
-- Exploring enterprise AI integrations
-- Strengthening backend, architecture, and cloud skills
-- Targeting international software engineering opportunities
-
----
-
-## 🌍 Languages
-
-- Arabic — Native
-- English — Fluent
-- French — Professional Working Proficiency
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BlackBearD0&show_icons=true&theme=transparent&hide_border=true&title_color=f59e0b&text_color=ffffff&icon_color=f59e0b" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackBearD0&layout=compact&theme=transparent&hide_border=true&title_color=f59e0b&text_color=ffffff" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🔥 Contribution Activity
 
-- LinkedIn: [achrafboutakourte](https://www.linkedin.com/in/achrafboutakourte)
-- Email: achrafboutakourte@gmail.com
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BlackBearD0&theme=transparent&hide_border=true&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/achrafboutakourte">
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:achrafboutakourte@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail">
+</a>
+</p>
